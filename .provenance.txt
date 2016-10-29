@@ -18,3 +18,19 @@ description: POC Spring Boot Rest Microservice
 root_package: com.maxdemarzi
 service_class_name: MyService
 
+####
+
+# editor info
+name: atomist-project-templates.spring-boot-common-editors.AddDockerMavenBuild
+group: atomist-project-templates
+artifact: spring-boot-common-editors
+version: 1.0.5
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+dockerRepository: sbrm
+
