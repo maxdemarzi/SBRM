@@ -1,0 +1,20 @@
+# generator info
+name: Spring Boot Rest Microservice
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.1.1
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: SBRM
+artifact_id: micro
+group_id: com.maxdemarzi
+version: 0.0.1-SNAPSHOT
+description: POC Spring Boot Rest Microservice
+root_package: com.maxdemarzi
+service_class_name: MyService
+
